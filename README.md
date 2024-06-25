@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nolexx07
+- 👋 Hi, I’m Sathvik
 - 👀 I’m interested in Learning Technology and Create Them
 - 🌱 I’m currently Pursuing B.tech 3rd Year
 - 📫 How to reach me Just say hi!!
