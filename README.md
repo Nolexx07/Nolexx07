@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sathvik
 - 👀 I’m interested in Learning Technology and Create Them
-- 🌱 I’m currently Pursuing B.tech 3rd Year
+- 🌱 I’m currently Pursuing B.tech Final Year
 - 📫 How to reach me Just say hi!!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Ntg
