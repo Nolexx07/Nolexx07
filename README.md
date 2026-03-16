@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malkam Sathvik</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Java</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | Java Full Stack</h3>
 
 <p align="center">
 Building scalable web applications and solving real-world problems through code.
